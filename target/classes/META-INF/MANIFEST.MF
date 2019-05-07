@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pioxii-authentication-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: julio.neves
+Implementation-Vendor-Id: br.edu.puc-campinas
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/pioxii-authe
+ ntication-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
